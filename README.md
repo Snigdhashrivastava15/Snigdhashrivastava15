@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Snigdha Shrivastava 👋</h1>
 
 <p align="center">
-  <b>Systems & Infrastructure Support Engineer</b><br/>
-  AWS Automation • CI/CD • Docker • Production Support<br/>
+  <b>Software Engineer | AI Engineer</b><br/>
+  Python • Backend Development • REST APIs • AWS<br/>
   <i>AWS Certified Solutions Architect – Associate</i>
 </p>
 
@@ -16,40 +16,51 @@
 
 ## 👩‍💻 About Me
 
-I build, deploy and support production infrastructure on **AWS**. My work covers cloud region migration, VPC network design, Docker containerization and automated **CI/CD with GitHub Actions**. I also build GenAI/LLM automation, ETL pipelines and Flask REST APIs.
+I'm a Computer Science graduate (B.Tech, CSE – AI & ML) with practical experience in **Python development**, **Flask REST APIs**, **SQL** and backend integration. I build, test, debug and deploy **AI-powered applications** using **Docker**, **GitHub Actions** and **AWS**, and I'm currently working as an **AI Engineer**.
 
-- ☁️ Migrated AWS workloads from **Singapore to Mumbai** and designed the new region's network (VPC, subnets, route tables, security groups)
-- ⚙️ Cut process turnaround time by **~30%** by automating deployment, monitoring and CI/CD pipelines
-- 🐳 Containerized and deployed a **Retail AI agent** using Docker, Amazon ECR and EC2
-- 🛠️ Supported live systems through monitoring, root-cause analysis and on-call troubleshooting
+- 🤖 Building an internal **RAG-based AI assistant** that gives source-grounded answers with permission-aware access
+- 👁️ Developing **computer-vision workflows** for defect detection and quality inspection
+- 🔐 Built Flask chatbots with **JWT authentication and role-based access control**
+- 🐳 Containerised apps with Docker and deployed them to AWS (ECR, EC2, ECS) through **CI/CD pipelines**
+- ☁️ Migrated AWS workloads from **Singapore to Mumbai** and designed the new region's VPC network
+- ⚙️ Cut process turnaround time by **~30%** by automating deployment, monitoring and CI/CD
 
 ---
 
 ## 🧰 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 | Area | Skills |
 |------|--------|
-| **Cloud & Infrastructure** | AWS (EC2, S3, IAM, VPC, ECR), Cloud Migration, Network Architecture, Security Groups, Azure |
-| **DevOps & CI/CD** | GitHub Actions, Docker, Amazon ECR, Deployment Automation, Monitoring, Agile/Scrum |
-| **Support & Reliability** | Production Support, On-call, Root-Cause Analysis, Incident Troubleshooting |
-| **Programming & APIs** | Python, Java (Spring Boot), Node.js, Bash, SQL, REST APIs |
-| **Data & ETL** | PySpark, Pandas, NumPy, Databricks, Snowflake |
-| **AI & Analytics** | LLM Applications, Tool/Function Calling, MCP, Prompt Engineering, Power BI, Tableau |
+| **Languages** | Python, SQL, Bash |
+| **Core CS** | Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks |
+| **Backend** | Flask, REST APIs, JWT Authentication, API Integration, Role-Based Access Control |
+| **Databases** | SQL, Amazon DynamoDB |
+| **Cloud & Deployment** | AWS EC2, S3, Lambda, API Gateway, ECR, ECS, CloudWatch, IAM, VPC |
+| **DevOps Tools** | Git, GitHub Actions, Docker, Linux |
+| **AI/ML & Data** | LangChain, RAG, LLM Integration, AWS Bedrock, Machine Learning, Pandas, PySpark, ETL |
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **AI Engineer** | NTF | Presently working |
+| **DevOps Engineer** | SeeSec Infotech Pvt. Ltd., Gurugram | Sep 2025 – Apr 2026 |
+| **Machine Learning & Cloud Intern** | Unique Training Solutions, Gurugram | Jun 2024 – Jul 2024 |
 
 ---
 
@@ -69,18 +80,19 @@ I build, deploy and support production infrastructure on **AWS**. My work covers
 
 | Project | What it does | Tech |
 |---------|--------------|------|
-| [**Company Support Chatbot**](https://github.com/Snigdhashrivastava15/employeechatbot) | Enterprise HR/IT/leave support app with JWT role-based access, automated ETL ingestion and CI/CD. Reached a **70% first-pass resolution rate** in evaluation. | Python, Flask, LLM, JWT, SQL, CI/CD |
-| [**Fashion AI Chatbot**](https://github.com/Snigdhashrivastava15092003/FashionAIChatbot) | NLP recommendation app for personalised suggestions. A/B tested rule-based against LLM-based, improving human-evaluated response quality by **25%**. | Python, NLP, LLM |
+| [**AI-Powered Enterprise Chatbot**](https://github.com/Snigdhashrivastava15/employeechatbot) | Flask chatbot using LangChain and RAG to query internal documents, with authentication and role-based access control. Document processing on AWS Lambda and S3, retrieval with Bedrock Knowledge Bases. | Python, Flask, LangChain, AWS Bedrock, RAG, Lambda, S3 |
+| **Retail Product Comparison App** | Streamlit app for comparing retail products, using Bedrock and DynamoDB. Containerised with Docker, pushed to ECR and deployed to EC2 on private networking. | Python, Streamlit, AWS Bedrock, DynamoDB, Docker, EC2 |
+| **CI/CD Deployment Pipeline** | GitHub Actions pipeline that builds, creates a Docker image, pushes to ECR and deploys to ECS, with VPC and cross-account networking. | GitHub Actions, Docker, ECR, ECS, EC2 |
+| **LimeRoad AWS Region Migration** | Migrated workloads from Singapore to Mumbai, designed the new VPC, subnets, route tables and security groups, and replicated IAM access. | AWS VPC, IAM, EC2, S3 |
+| [**Fashion AI Chatbot**](https://github.com/Snigdhashrivastava15092003/FashionAIChatbot) | NLP recommendation app. A/B tested rule-based against LLM-based, improving response quality by **25%**. | Python, NLP, LLM |
 | **Flower Image Classification** | Benchmarked 6 CNN architectures; **Inception V3 reached 92.31%** test accuracy. | Python, TensorFlow, CNN |
-| **Retail AI Agent Deployment** | Dockerized an AI agent, pushed the image to ECR and deployed to EC2 with an automated CI/CD pipeline. | Docker, ECR, EC2, GitHub Actions |
-| **AWS Region Migration** | Moved workloads from Singapore to Mumbai with a new VPC network design and replicated IAM access. | AWS VPC, IAM, EC2 |
 | [**This Portfolio**](https://github.com/Snigdhashrivastava15/My_portfoliosn) | Futuristic single-page portfolio, deployed on Vercel. | HTML, CSS, JavaScript |
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to **System Engineer**, **Solutions Architect** and **DevOps / SRE** roles.
+I'm open to **Software Engineer**, **AI Engineer** and **Cloud / DevOps** roles.
 
 - 🌐 Portfolio: [my-portfoliosn.vercel.app](https://my-portfoliosn.vercel.app/)
 - 💼 LinkedIn: [snigdha-shrivastava](https://www.linkedin.com/in/snigdha-shrivastava/)
